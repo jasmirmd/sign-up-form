@@ -5,7 +5,7 @@ Fifth project following the course of [The Odin Project](https://www.theodinproj
 
 ![demo](public/demo.png)
 
-[View Live Demo]()
+[View Live Demo](https://jasmirmd.github.io/sign-up-form/)
 
 ### Resources:
 - [Unsplash](https://unsplash.com/)
